@@ -1,7 +1,5 @@
 prefix=@prefix@
 exec_prefix=${prefix}
-libdir=@libdir@
-dir=@libdir@/apertium/apertium-isl
 srcdir=@datarootdir@/apertium/apertium-isl
 
 Name: apertium-isl
