@@ -1,3 +1,13 @@
+apertium-isl (0.1.0~r65494-1+wmf1) jessie-wikimedia; urgency=low
+
+  * New upstream snapshot.
+  * Rebuild for Jessie.
+  * Updated dependencies.
+  * Cleanup debian/rules file.
+  * Fixed debian/copyright for Authors.
+
+ -- Kartik Mistry <kartik@debian.org>  Thu, 18 Aug 2016 18:57:38 +0530
+
 apertium-isl (0.1.0-1) trusty; urgency=low
 
   [ Tino Didriksen ]
